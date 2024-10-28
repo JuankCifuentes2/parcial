@@ -1,4 +1,4 @@
-alido = True
+valido = True
 while valido:
     try:
         num=int(input("Ingresa numero"))
